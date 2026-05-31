@@ -18,7 +18,7 @@ Ensure you have the required runtime environment installed (BASH).
 ### Execution
 Clone the repository and run:
 ```bash
-git clone https://github.com/VARSHAN69/py-charts-v236.git
+git clone https://github.com/VarshuAi/py-charts-v236.git
 cd py-charts-v236
 ```
 Run the master script or compile the executable entry point.
