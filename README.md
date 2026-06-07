@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Generates terminal ASCII charts from custom data lists. [Variant 236 using BASH with Matcha theme]
+  name: py-charts-v236 version: 1.0 type: Repository author: VarshuAi description: >   Generates terminal ASCII charts from custom data lists. [Variant 236 using BASH with Matcha theme] primary_tech: Shell
 primary_tech: Shell
 ```
 
